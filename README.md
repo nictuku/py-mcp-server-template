@@ -1,6 +1,6 @@
 # py-mcp-server-template
 
-This repository is a template to help you create your own MCP (Multi-Capability Provider) servers in Python. Fork this repository to get started.
+This repository is a template to help you create your own MCP (Model Context Protocol) servers in Python. Fork this repository to get started.
 
 ## Setup with uv
 
